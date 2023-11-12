@@ -7,7 +7,7 @@ body {
   background-color: #d6e2f0;
 }
 
-p {
+p, h1 {
   font-family: outfit;
 }
 
